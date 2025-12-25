@@ -29,9 +29,54 @@ PROCEDURE:
 4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
 OBSERVATIONS:
 
-REGULATION CHARACTERISTICS:
 
-V-I & REGULATION CHARACTERISTICS:
+THEORY:
+![theory1](https://github.com/user-attachments/assets/992e8acb-f5b2-44a7-bba5-a16ef76dbd56)
+
+![theory2](https://github.com/user-attachments/assets/f746e9d4-831b-41e6-996a-68a2f410d9dd)
+
+
+LINE REGULATION:
+
+CIRCUIT DIAGRAM:
+<img width="953" height="373" alt="LINE" src="https://github.com/user-attachments/assets/caddf952-5bb9-44e9-9a75-1f19cb35eb37" />
+
+
+
+TABULATION,MODEL GRAPH:
+![tab_line](https://github.com/user-attachments/assets/ba9bf3e3-989b-42b9-bdda-1fba5c5afd74)
+
+
+
+GRAPH:
+![graph_line](https://github.com/user-attachments/assets/1a0cfd38-427c-46c6-894b-bcac039602fc)
+
+
+LOAD REGULATION:
+
+
+CIRCUIT DIAGRAM:
+<img width="948" height="353" alt="LOAD" src="https://github.com/user-attachments/assets/3ec9e969-daac-4a86-b410-df237231f30f" />
+
+
+
+TABULATION,MODEL GRAPH:
+
+
+![tab_load](https://github.com/user-attachments/assets/309d20f1-ec5c-4580-9357-d4b52b1ffec3)
+
+
+GRAPH:
+![graph_load](https://github.com/user-attachments/assets/7f7661ab-0f1e-481c-906b-983c795708a4)
+
+
+
+
+OUTPUT:
+
+![output](https://github.com/user-attachments/assets/bbc61acf-87d1-4c46-a82e-6b241ac93e9a)
+
+
 
 PRECAUTIONS:
 
